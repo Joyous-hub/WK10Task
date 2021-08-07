@@ -11,8 +11,8 @@ export default function Contact() {
             </div>
 
             <div className="right">
-                <h3>EJIRO A FACILITATOR 0813-456-5674 </h3>
-                <h3>EMEKA A FACILITATOR 0813-456-5674 </h3>
+                <h3>Ejiro A Facilitator 0813-456-5674 </h3>
+                <h3>Emeka A Facilitator 0813-456-5674 </h3>
             </div>
         </div>
     )
